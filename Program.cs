@@ -187,7 +187,7 @@ class Task
         Console.WriteLine("Jawaban Soal 2");
         Laptop laptop1 = new Vivobook();
         laptop1.vga = new Nvidia();
-        //laptop1.Ngoding(); error karena method ini tidak dipunyai di class induk atau class mobil
+        //laptop1.Ngoding(); error karena method ini tidak dipunyai di class induk atau class Laptop
         Console.WriteLine("");
 
         Console.WriteLine("Jawaban Soal 3");
